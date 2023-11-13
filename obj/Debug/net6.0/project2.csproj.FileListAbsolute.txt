@@ -1,0 +1,17 @@
+F:\CP\project2\bin\Debug\net6.0\project2.exe
+F:\CP\project2\bin\Debug\net6.0\project2.deps.json
+F:\CP\project2\bin\Debug\net6.0\project2.runtimeconfig.json
+F:\CP\project2\bin\Debug\net6.0\project2.dll
+F:\CP\project2\bin\Debug\net6.0\project2.pdb
+F:\CP\project2\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\CP\project2\obj\Debug\net6.0\project2.csproj.AssemblyReference.cache
+F:\CP\project2\obj\Debug\net6.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+F:\CP\project2\obj\Debug\net6.0\project2.AssemblyInfoInputs.cache
+F:\CP\project2\obj\Debug\net6.0\project2.AssemblyInfo.cs
+F:\CP\project2\obj\Debug\net6.0\project2.csproj.CoreCompileInputs.cache
+F:\CP\project2\obj\Debug\net6.0\project2.csproj.CopyComplete
+F:\CP\project2\obj\Debug\net6.0\project2.dll
+F:\CP\project2\obj\Debug\net6.0\refint\project2.dll
+F:\CP\project2\obj\Debug\net6.0\project2.pdb
+F:\CP\project2\obj\Debug\net6.0\project2.genruntimeconfig.cache
+F:\CP\project2\obj\Debug\net6.0\ref\project2.dll
